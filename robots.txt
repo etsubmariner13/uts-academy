@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap and Host Integration
+Sitemap: https://academy.unifiedtensilesystem.org/sitemap.xml
+Host: https://academy.unifiedtensilesystem.org
+
+# Base Website Telemetry Reference: https://unifiedtensilesystem.org
