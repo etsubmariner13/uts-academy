@@ -61,7 +61,7 @@ nav:
   - Stoa Rebuilt: https://www.unifiedtensilesystem.org/stoa-rebuilt
   - Academy Curriculum:
       - Academy Entrance: index.md
-      - Level 0 Onboarding:
+      - Level 0 Onboarding "Grounding":
           - "Overview & Foundation": level-0/index.md
           - "Module 0-1 Letting Go": level-0/module-0-1.md
           - "Module 0-2 Clearing Out The Jargon": level-0/module-0-2.md
@@ -70,7 +70,7 @@ nav:
           - "Module 0-5 Motion As Re-Folding": level-0/module-0-5.md
           - "Module 0-6 Preparing For The Wire": level-0/module-0-6.md
           - "Module 0 INTRODUCTION TO PANELS": level-0/panel-0.md
-      - Level 1 Novice "Associates":
+      - Level 1 Novice:
           - "Overview & Clearing the Canvas": level-1/index.md
           - "Module 1.1 The Material Wire": level-1/module-1-1.md
           - "Module 1.2 Helical Configuration": level-1/module-1-2.md
@@ -79,11 +79,11 @@ nav:
           - "Module 1.5 Micro-Froth Slop Buffer": level-1/module-1-5.md
           - "Module 1.6 Non-Deformable Node": level-1/module-1-6.md
           - "Module 1.7 Macro-Loop Closure": level-1/module-1-7.md
-      - Level 2 Planar Dynamics "Bachelor":
+      - Level 2 Planar Dynamics "Intermediate":
           - "Overview & 2D Mechanics": level-2/index.md
-      - Level 3 Spherical Synthesis "Masters":
+      - Level 3 Spherical Synthesis "Advanced":
           - "Overview & 3D Compaction": level-3/index.md
-      - Level 4 Deep-Time Mastery "Doctorate":
+      - Level 4 Deep-Time Mastery "Expert":
           - "Overview & Crown Closure": level-4/index.md
-      - Omni-Disciplinary Sciences "Post-Grad":
+      - Omni-Disciplinary Sciences "Mastery":
           - "UTS As-Is": omni-discipline/index.md

@@ -5,6 +5,7 @@ The official repository for the **Unified Tensile System (UTS) Academy**, deploy
 
 The UTS Academy provides a structured, paper-based autodidactic curriculum designed to transition inquiry from legacy empty-space abstractions to continuous, scale-invariant spatial geometry.
 
+NOTE: This program is auto-didactic, independent, and completely unaccredited. It does not confer, represent, or substitute for college credits or university degrees.
 ---
 
 ### Foundational Grounding
