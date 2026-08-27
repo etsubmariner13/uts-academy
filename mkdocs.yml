@@ -84,6 +84,13 @@ nav:
           - "Module 1 Capstone Panel": level-1/panel-1.md
       - Level 2 Planar Dynamics "Intermediate":
           - "Overview & 2D Mechanics": level-2/index.md
+          - "Module 2.1 The Planar Drawing Engine": level-2/module-2-1.md
+          - "Module 2.2 Sentence Postures": level-2/module-2-2.md
+          - "Module 2.3 Verification Hysteresis Audit": level-2/module-2-3.md
+          - "Module 2.4 Bracketed Substrate Naturalization": level-2/module-2-4.md
+          - "Module 2.5 Invariant Arc Length": level-2/module-2-5.md
+          - "Module 2.6 Reciprocal Unzipping Cycle": level-2/module-2-6.md
+          - "Module 2 Capstone Panel": level-2/panel-2.md
       - Level 3 Spherical Synthesis "Advanced":
           - "Overview & 3D Compaction": level-3/index.md
       - Level 4 Deep-Time Mastery "Expert":
