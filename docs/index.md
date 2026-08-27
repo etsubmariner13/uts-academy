@@ -25,7 +25,7 @@ Your journey begins at Level 000, where you will gently unlearn old habits and c
 
 Take a deep breath, keep your workspace clean and focused, and prepare to see reality as it actually is. Are you ready to begin Module 000-1?
 
-NOTE: This program is auto-didactic, independent, and completely unaccredited. It does not confer, represent, or substitute for college credits or university degrees.
+**NOTE: This program is auto-didactic, independent, and completely unaccredited. It does not confer, represent, or substitute for college credits or university degrees.**
 
 ## Navigating Search Reality And The Architectural Blueprint
 
