@@ -114,3 +114,17 @@ input.uts-checkpoint[type="checkbox"] {
 .md-nav--primary .md-nav__item--nested .md-nav__list {
   padding-left: 0.5rem;
 }
+/* Expand the entire outer container */
+.md-grid {
+  max-width: 90%; /* Expands the overall site width from fixed pixels to 90% of your screen */
+}
+
+/* Expand the center content area */
+.md-content {
+  max-width: none; /* Removes the default narrow cap so content fills the allocated grid */
+}
+
+/* Optional: Widen the main text container specifically */
+.md-content__inner {
+  max-width: 100%;
+}
