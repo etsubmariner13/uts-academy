@@ -61,9 +61,11 @@ nav:
   - Stoa Rebuilt: https://www.unifiedtensilesystem.org/stoa-rebuilt
   - Curriculum ToC: https://docs.google.com/document/d/1_iBT70xpHc1QosazgvnZtKgzKETRuz4piazbSwwHUT8/edit?usp=drive_link
   - Curriculum-on-Drive: https://drive.google.com/drive/folders/1x8LtVAJudu0UaZEP3b9dZ4z7ts7mLp7e?usp=drive_link
-  - Academy Curriculum:
+
+  - "<b>Academy Curriculum</b>":
       - Academy Entrance: index.md
-      - Level 0 Onboarding "Grounding":
+
+      - "<b>Level 0 Onboarding \"Grounding\"</b>":
           - "Overview & Foundation": level-0/index.md
           - "Module 0-1 Letting Go": level-0/module-0-1.md
           - "Module 0-2 Clearing Out The Jargon": level-0/module-0-2.md
@@ -71,8 +73,9 @@ nav:
           - "Module 0-4 Managing Your Mental Space": level-0/module-0-4.md
           - "Module 0-5 Motion As Re-Folding": level-0/module-0-5.md
           - "Module 0-6 Preparing For The Wire": level-0/module-0-6.md
-          - "Module 0 Introduction to Panels": level-0/panel-0.md
-      - Level 1 Novice:
+          - "Level 0 Introduction to Panels": level-0/panel-0.md
+
+      - "<b>Level 1 Novice</b>":
           - "Overview & Clearing the Canvas": level-1/index.md
           - "Module 1.1 The Material Wire": level-1/module-1-1.md
           - "Module 1.2 Helical Configuration": level-1/module-1-2.md
@@ -81,8 +84,9 @@ nav:
           - "Module 1.5 Micro-Froth Slop Buffer": level-1/module-1-5.md
           - "Module 1.6 Non-Deformable Node": level-1/module-1-6.md
           - "Module 1.7 Macro-Loop Closure": level-1/module-1-7.md
-          - "Module 1 Capstone Panel": level-1/panel-1.md
-      - Level 2 Planar Dynamics "Intermediate":
+          - "Level 1 Capstone Panel": level-1/panel-1.md
+
+      - "<b>Level 2 Planar Dynamics \"Intermediate\"</b>":
           - "Overview & 2D Mechanics": level-2/index.md
           - "Module 2.1 The Planar Drawing Engine": level-2/module-2-1.md
           - "Module 2.2 Sentence Postures": level-2/module-2-2.md
@@ -90,13 +94,34 @@ nav:
           - "Module 2.4 Bracketed Substrate Naturalization": level-2/module-2-4.md
           - "Module 2.5 Invariant Arc Length": level-2/module-2-5.md
           - "Module 2.6 Reciprocal Unzipping Cycle": level-2/module-2-6.md
-          - "Module 2 Capstone Panel": level-2/panel-2.md
-      - Level 3 Spherical Synthesis "Advanced":
+          - "Level 2 Capstone Panel": level-2/panel-2.md
+
+      - "<b>Level 3 Spherical Synthesis \"Advanced\"</b>":
           - "Overview & 3D Compaction": level-3/index.md
-      - Level 4 Deep-Time Mastery "Expert":
+          - "Module 3.1 3D Spherical Thesis Matrix": level-3/module-3-1.md
+          - "Module 3.2 Trans-Axis Anchoring": level-3/module-3-2.md
+          - "Module 3.3 Celestial Substrate Mechanics": level-3/module-3-3.md
+          - "Module 3.4 Solid-State Mechanics": level-3/module-3-4.md
+          - "Module 3.5 Terrestrial Substrate Mechanics": level-3/module-3-5.md
+          - "Module 3.6 Socio-Technical Mechanics": level-3/module-3-6.md
+          - "Module 3.7 The Metanoia Framework": level-3/module-3-7.md
+          - "Level 3 Capstone Panel": level-3/panel-3.md
+
+      - "<b>Level 4 Deep-Time Mastery \"Expert\"</b>":
           - "Overview & Crown Closure": level-4/index.md
-      - Omni-Disciplinary Sciences "Mastery":
+          - "Module 4.1 Dyadic Dual-Meter Waveguide": level-4/module-4-1.md
+          - "Module 4.2 Deep-Time Archiving Media": level-4/module-4-2.md
+          - "Module 4.3 Atomic Compaction Falsification": level-4/module-4-3.md
+          - "Module 4.4 High-Energy Froth & Redshift": level-4/module-4-4.md
+          - "Module 4.5 Master Syntopical Capstone": level-4/module-4-5.md
+          - "Level 4 Capstone Panel": level-4/panel-4.md
+
+      - "<b>Omni-Disciplinary Sciences \"Mastery\"</b>":
           - "UTS As-Is": omni-discipline/index.md
+          - "Module Omni-1 Deconstructing Silos": omni-discipline/module-omni-1.md
+          - "Module Omni-2 Universal Life": omni-discipline/module-omni-2.md
+          - "Module Omni-3 Planetary Biomes": omni-discipline/module-omni-3.md
+          - "Module Omni-4 Material Self-Telemetry": omni-discipline/module-omni-4.md
           - "Example post-Curriculum Panel 1": omni-discipline/index2.md
           - "Example post-Curriculum Panel 2": omni-discipline/index3.md
           - "Example post-Curriculum Panel 3": omni-discipline/index4.md

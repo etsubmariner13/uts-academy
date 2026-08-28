@@ -116,7 +116,7 @@ input.uts-checkpoint[type="checkbox"] {
 }
 /* Expand the entire outer container */
 .md-grid {
-  max-width: 90%; /* Expands the overall site width from fixed pixels to 90% of your screen */
+  max-width: 75%; /* Expands the overall site width from fixed pixels to 90% of your screen */
 }
 
 /* Expand the center content area */
