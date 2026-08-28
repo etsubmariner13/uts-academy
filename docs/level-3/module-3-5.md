@@ -29,8 +29,11 @@ Think of a heavy-duty hydraulic bench vise holding a thick block of hardwood bet
 If you tighten the vise, the wood absorbs the compressive force throughout its grain. If you tap the side of the wood with a hammer, the vibration does not blow the wood apart; instead, the wood flexes slightly, and the massive steel jaws absorb the shock.
 
 The surface of our planet operates in the exact same way:
+
 * **The Bottom Jaw**: Deep within the Earth, sitting directly on the outer core, are two continent-sized structures called **LLSVPs** (Large Low Shear Velocity Provinces). These act as giant thermal capacitors that store and slowly release mantle heat.
+
 * **The Top Jaw**: The dense, rotating blanket of the atmosphere presses downward on the surface with tremendous shear force.
+
 * **The Workpiece in the Middle**: Squeezed between these two jaws are the rigid, ancient continental cores known as **Cratons**.
 
 These deep cratonic roots act as natural solid-state batteries (**Ground-Capacitor Blocks**). When tectonic forces push against a continent, the quartz-rich fault lines act like piezoelectric crystals—squeezing mechanical pressure into electrical potential. Instead of snapping instantly, the crust stores this energy. When a fault line eventually discharges as an earthquake, it is not a random rupture; it is a physical capacitor releasing excess strain to maintain equilibrium across the planetary circuit.

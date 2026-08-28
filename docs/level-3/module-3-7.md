@@ -29,8 +29,11 @@ Your brain’s working memory is a finite physical surface. If you do not build 
 Think of building a deep-sea exploration submarine.
 
 You do not take a thin, bare metal sheet and drop it straight into the deepest ocean trench. If you do, the crushing water pressure crumples the metal instantly. Instead, engineers build the submarine in three distinct, reinforcing stages:
+
 * **Stage 1 (The Outer Hull)**: A flexible outer skin that absorbs the first impact of ocean waves without puncturing.
+
 * **Stage 2 (The Pressure Bulkhead Gates)**: Heavy-duty internal valves that stop incoming water from flooding the corridors.
+
 * **Stage 3 (The Titanium Command Core)**: A reinforced, watertight inner citadel with ballast-clearing tanks that can jettison dead weight to maintain neutral buoyancy and navigate with total precision.
 
 Over 2,300 years ago in Athens, Aristotle showed in Book II of the *Nicomachean Ethics* that human character is built through physical habituation (*hexis*). You do not become calm and brave by reading abstract theories; you become steady by physically practicing boundary control over your actions every single day. Five centuries later, Marcus Aurelius noted in *Meditations* (Book VIII, 48) that the trained mind is an unassailable fortress that preserves its internal peace by refusing to let external storms enter its perimeter.

@@ -109,20 +109,10 @@ nav:
 
       - "<b>Level 4 Deep-Time Mastery \"Expert\"</b>":
           - "Overview & Crown Closure": level-4/index.md
-          - "Module 4.1 Dyadic Dual-Meter Waveguide": level-4/module-4-1.md
-          - "Module 4.2 Deep-Time Archiving Media": level-4/module-4-2.md
-          - "Module 4.3 Atomic Compaction Falsification": level-4/module-4-3.md
-          - "Module 4.4 High-Energy Froth & Redshift": level-4/module-4-4.md
-          - "Module 4.5 Master Syntopical Capstone": level-4/module-4-5.md
-          - "Level 4 Capstone Panel": level-4/panel-4.md
 
       - "<b>Omni-Disciplinary Sciences \"Mastery\"</b>":
           - "UTS As-Is": omni-discipline/index.md
-          - "Module Omni-1 Deconstructing Silos": omni-discipline/module-omni-1.md
-          - "Module Omni-2 Universal Life": omni-discipline/module-omni-2.md
-          - "Module Omni-3 Planetary Biomes": omni-discipline/module-omni-3.md
-          - "Module Omni-4 Material Self-Telemetry": omni-discipline/module-omni-4.md
-          - "Example post-Curriculum Panel 1": omni-discipline/index2.md
-          - "Example post-Curriculum Panel 2": omni-discipline/index3.md
-          - "Example post-Curriculum Panel 3": omni-discipline/index4.md
-          - "Example post-Curriculum Panel 4": omni-discipline/index5.md
+          - "Example Panel 1": omni-discipline/index2.md
+          - "Example Panel 2": omni-discipline/index3.md
+          - "Example Panel 3": omni-discipline/index4.md
+          - "Example Panel 4": omni-discipline/index5.md
