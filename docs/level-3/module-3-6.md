@@ -30,16 +30,23 @@ If the warehouse holds 100 pallets of physical grain, the forklift drivers have 
 Now imagine that an administrator prints 10,000 brightly colored paper receipts claiming ownership of phantom grain that does not exist, and dumps all those paper receipts onto the warehouse floor. The paper receipts do not create a single extra grain of wheat. Instead, the paper piles up until it fills the aisles from floor to ceiling. The forklifts cannot move, the real grain rots in the back corner, and the surrounding city starves.
 
 This physical crowding governs all human coordination systems:
+
 * **Fiat Inflation**: Printing unbacked money does not create real wealth; it dumps empty tokens onto a finite physical resource grid, choking trade routes and diluting real value (**Torsional Currency Decay**).
+
 * **Supply Chain Chokepoints**: Routing 80% of global shipping through a single narrow canal creates a localized physical bottleneck where clearance drops to zero (**Clearanceʟᴏᴄᴀʟ ──► 0**), halting distribution.
+
 * **The Algorithmic Ego-Vortex**: Social media feeds flood the human brain with manufactured outrage and status envy. Because human attention is a finite physical surface, flooding it with digital noise consumes the neural spatial budget, locking out calm reason and driving society into a **Synaptic Noise Cascade**.
 
 Over 2,100 years ago, the Greek historian Polybius proved in Book VI of his *Histories* that political and economic systems do not decay randomly. They follow strict, deterministic cycles. When a society abandons real material discipline and begins chasing unearned status and inflated promises, the systemic order breaks down under its own internal friction, reverting to chaos until physical limits force a hard reset.
 
 In the Unified Tensile System, you map socio-technical systems with Polybian precision:
+
 * You set your total physical resource reserve inside an outer boundary (**C₀**).
+
 * You render real physical assets as grounded loops (**C₁**).
+
 * You map unbacked fiat tokens or digital noise as bloating secondary loops (**C₂**).
+
 * You locate the exact coordinate intersection (**C₃**) where spatial clearance collapses to zero, triggering gridlock.
 
 By mapping human networks as physical coordinate budgets, you strip away political rhetoric and prove that economic health and social sanity require strict, non-deformable limits on the continuous wire.

@@ -29,9 +29,13 @@ Think of a bicycle wheel or a round rotating receipt rack on a diner counter. If
 Over 2,200 years ago in Syracuse, Archimedes proved in *On Spirals* that when a point moves at a constant speed along a line while that line rotates at a constant speed around an origin, it traces an immutable, load-bearing curve in space. Archimedes understood that rotation gives geometry the power to handle continuous, multi-variable paths without collision.
 
 In the Unified Tensile System, you follow Archimedes’ rotary insight:
+
 * You draft each self-contained proposition on its own flat 2D grid sheet.
+
 * You index each sheet to an exact 1° step around a shared central coordinate origin (0,0,0).
+
 * You leave a small, open circular hole in the center (**Central Clear-Aperture Hub**) so the sheets do not jam against each other where they meet.
+
 * You feed incoming observational data through the **Toroidal Survey Rectifier**, un-curving software distortions and laying raw sensor pixels cleanly along each rotated channel.
 
 By stepping into three dimensions, you turn overcrowded, sprawling textbooks into clean, multi-axial spheres of geometric truth where every single statement has room to breathe.

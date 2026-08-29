@@ -18,21 +18,29 @@
 In Module 3.1, you learned how to overcome the space limits of a single 2D page by rotating separate statement sheets around a shared center point (0,0,0) along 1° steps, preserving an open hole at the center (**Central Clear-Aperture Hub**) so the sheets never collide.
 
 Now, in Module 3.2, we resolve two practical engineering challenges:
+
 * **How do rotated pages communicate with each other across the margins without cluttering the center?**
+
 * **How do you verify that a complex 3D collection of 360 sheets is structurally balanced and free of hidden errors?**
 
 Think of a master carpenter framing a complex, timber-framed roof. 
 
 If the carpenter only looks at the roof from a single flat drawing on top of a table, they might miss the fact that two heavy support beams collide in mid-air or that an open gap is left unsupported on the side. To guarantee the roof will stand under heavy snow, the carpenter creates three distinct drawings:
+
 * A **Top-Down Plan** (looking down from above) to check spacing and layout.
+
 * A **Side Elevation** (looking from the side) to check height and vertical joint stacking.
+
 * A **Front Profile** (looking from the front) to check overall balance and symmetrical weight.
 
 Over 500 years ago in Milan, Leonardo da Vinci revolutionized mechanical engineering in the *Codex Atlanticus* by drawing complex machines (such as multi-stage gearboxes and kinematic lifting cranes) from multiple orthogonal perspectives. Leonardo recognized that drawing an object from several right-angle viewpoints allows an engineer to inspect how internal parts link together, ensuring that forces flow smoothly through physical joints without hidden stress fractures.
 
 In the Unified Tensile System, you follow Leonardo’s orthogonal discipline:
+
 * You connect rotated pages using **HalfFold Nodes**—small semicircle tabs along the paper edge that snap together chord-to-chord like jigsaw puzzle tabs when pages are set side-by-side.
+
 * You run straight **Axis Cross-Reference Vectors** from these tabs directly into your main idea loops, passing information across pages without cutting across the central hub.
+
 * You audit your compiled 3D volume from all three orthogonal views: Top-Down (x-y) to check spatial clearance packing, Side Elevation (y-z) to check layer stacking, and Front Profile (x-z) to verify overall physical balance.
 
 By cross-referencing pages at the margins and auditing the structure from three distinct angles, you ensure that multi-volume monographs achieve total, load-bearing integrity on the continuous wire.

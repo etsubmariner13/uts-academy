@@ -32,10 +32,15 @@ Now, imagine two basketballs submerged close together in that same pool. The wat
 Over 330 years ago, the Dutch physicist Christiaan Huygens proved in his *Treatise on Light* that mechanical action cannot leap across a void. Every wave, push, and force requires direct, touching contact across a continuous medium. Decades earlier, Johannes Kepler showed in *Harmonices Mundi* that planetary movements are governed by rigorous geometric ratios and physical spatial limits.
 
 In the Unified Tensile System, celestial mechanics follows Huygens and Kepler:
+
 * The entire universe is an unbroken, continuous material wire held under permanent **Global Tautness (Hexis)**.
+
 * A massive star or planet is not an isolated rock; it is a dense knot where the wire is wound tightly over itself.
+
 * Because the star packs so much of the wire into a localized knot, it creates a **Tension Shadow** in the surrounding medium.
+
 * When a smaller planet sits near that star, the higher background Tautness of the outer universe pushes the planet inward toward the star’s tension shadow.
+
 * The planet stays in a stable, closed orbit because the continuous inward **Hooping Pressure** perfectly balances the outward kinetic momentum of the moving knot.
 
 By mapping gravitation as an inward push on the continuous wire, you eliminate the need for invisible pulling forces and reject the dark matter hypothesis through pure, load-bearing geometry.

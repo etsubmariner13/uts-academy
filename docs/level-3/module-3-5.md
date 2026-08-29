@@ -41,9 +41,13 @@ These deep cratonic roots act as natural solid-state batteries (**Ground-Capacit
 Over 1,900 years ago, Pliny the Elder observed in his *Naturalis Historia* that the subterranean veins, caverns, and mineral channels of the Earth are not dead voids, but active functional conduits that breathe, vent internal vapor, and stabilize the terrestrial crust against violent disruption.
 
 In the Unified Tensile System, you follow this grounded physical insight:
+
 * You map the core-mantle boundary as a closed base circle (C₁).
+
 * You anchor the dual LLSVP thermal capacitors on opposite sides of the core (C₂).
+
 * You render the rigid cratonic crustal blocks (C₃) compressed from above by atmospheric shear.
+
 * You trace subterranean piezoelectric fault lines (C₄) that harvest kinetic friction and route energy smoothly across the planetary grid.
 
 By mapping the Earth as an interlocking mechanical vice, you eliminate chaotic geological assumptions and verify that planetary heat and seismic stress are governed by continuous, load-bearing circuits.

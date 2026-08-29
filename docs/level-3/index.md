@@ -116,4 +116,4 @@ This appended section provides the non-deformable coordinate mechanics, volumetr
 
 Prepare your drafting sheets, index your rotational axes, and step into the 3D Spherical Thesis Matrix.
 
-**Soon you will be able to proceed to MODULE 3.1: The 3D Spherical Thesis Matrix & Toroidal Survey Compilation**
+**Proceed to MODULE 3.1: The 3D Spherical Thesis Matrix & Toroidal Survey Compilation**

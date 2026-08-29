@@ -21,7 +21,9 @@ In Module 3.1 through Module 3.3, you learned how to compile multi-statement mon
 Now, in Module 3.4, we bring those geometric principles down to the microscopic scale of computing: **How can a machine calculate massive, complex problems instantly without crashing, overheating, or suffering from digital lag?**
 
 For nearly a century, every digital computer has been built around the "Turing Machine" model: a system that breaks thoughts down into billions of 1s and 0s, shuttling electrical charges on and off through binary transistor gates. This method suffers from two major physical bottlenecks:
+
 * **Clock-Skew and Heat**: Forcing billions of microscopic transistors to turn on and off simultaneously generates electrical friction, thermal waste heat, and timing errors (clock-skew).
+
 * **The Halting Problem**: If a software program enters an endless circular loop (like asking a computer to find the last digit of an infinite fraction), the processor cannot know if the program will ever finish, causing the software to freeze or crash.
 
 The Unified Tensile System solves these computational limits using **Solid-State Non-Turing Wave Mechanics**.
@@ -33,9 +35,13 @@ Where the two circular ripples meet in the center of the pond, their waves colli
 Over 300 years ago, Gottfried Wilhelm Leibniz invented the *Stepped Reckoner*—the first mechanical machine that could add, subtract, multiply, and divide using stepped cylindrical gears. In his *Monadology*, Leibniz showed that the cosmos does not run on disconnected digital abstractions; it functions as a physical continuum where every real substance reflects the exact state of the whole through direct geometric contact.
 
 In the Unified Tensile System, you build upon Leibniz’s mechanical computing principles:
+
 * Instead of cycling binary electronic transistors, you send acoustic or optical waves through an **Intermetallic Bismuth-Quartz (IBQ)** crystal lattice.
+
 * The waves collide inside the crystal (**Passive Wave Interference**), executing complex mathematical operations instantly at the material’s sound speed.
+
 * To prevent identical waves from bouncing back and creating noisy echoes that jam the circuit, you space the circuit traces at prime number distances (**MTS Twin Prime Radar Geometry**). Because prime numbers share no common divisors, they naturally break up harmonic feedback.
+
 * You eliminate the Halting Problem by enclosing the computational core in a physical boundary capsule (C₃). When a runaway recursive calculation hits the outer boundary, the wall absorbs and phase-cancels the wave, halting the calculation cleanly without crashing the hardware.
 
 By replacing binary software loops with continuous wave collisions on a prime-spaced grid, you build zero-latency computing hardware governed purely by the non-deformable geometry of the material medium.
