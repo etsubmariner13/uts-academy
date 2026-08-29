@@ -79,8 +79,10 @@ nav:
           - "Overview & Clearing the Canvas": level-1/index.md
           - "Module 1.1 The Material Wire": level-1/module-1-1.md
           - "Module 1.2 Helical Configuration": level-1/module-1-2.md
+          - "Module 1.2B Loop-Back": level-1/module-1-2B-LoopBack.md
           - "Module 1.3 The Boundary Layer": level-1/module-1-3.md
           - "Module 1.4 Master Equivalence Anchor": level-1/module-1-4.md
+          - "Module 1.4B Loop-Back": level-1/module-1-4B-LoopBack.md
           - "Module 1.5 Micro-Froth Slop Buffer": level-1/module-1-5.md
           - "Module 1.6 Non-Deformable Node": level-1/module-1-6.md
           - "Module 1.7 Macro-Loop Closure": level-1/module-1-7.md
@@ -90,14 +92,17 @@ nav:
           - "Overview & 2D Mechanics": level-2/index.md
           - "Module 2.1 The Planar Drawing Engine": level-2/module-2-1.md
           - "Module 2.2 Sentence Postures": level-2/module-2-2.md
+          - "Module 2.2B Loop-Back": level-2/module-2-2B-LoopBack.md
           - "Module 2.3 Verification Hysteresis Audit": level-2/module-2-3.md
           - "Module 2.4 Bracketed Substrate Naturalization": level-2/module-2-4.md
+          - "Module 2.4B Loop-Back": level-2/module-2-4B-LoopBack.md
           - "Module 2.5 Invariant Arc Length": level-2/module-2-5.md
           - "Module 2.6 Reciprocal Unzipping Cycle": level-2/module-2-6.md
           - "Level 2 Capstone Panel": level-2/panel-2.md
 
       - "<b>Level 3 Spherical Synthesis \"Advanced\"</b>":
           - "Overview & 3D Compaction": level-3/index.md
+          - "Module 3.0B Loop-Back": level-3/module-3-0B-LoopBack.md
           - "Module 3.1 3D Spherical Thesis Matrix": level-3/module-3-1.md
           - "Module 3.2 Trans-Axis Anchoring": level-3/module-3-2.md
           - "Module 3.3 Celestial Substrate Mechanics": level-3/module-3-3.md
