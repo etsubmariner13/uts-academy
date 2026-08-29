@@ -30,14 +30,18 @@ By executing this jargon-clearing practice right now, you clear your workbench, 
 
 ### Step-by-Step Drawing Practice
 * Step 1: Place a fresh sheet of standard 5.0 mm metric grid paper (or a US Quad-ruled pad) flat on your desk and take a sharp graphite pencil.
+
 * Step 2: Writing Down the Jargon Sentence: At the very top margin of your sheet, write down a noisy claim from recent news or social media (for example: "We are driving paradigm-shifting synergy to optimize holistic community engagement").
+
 * Step 3: Executing the Physical Redaction:
   - Take your pencil and draw a bold, solid line straight through every adjective, buzzword, and vague assertion (paradigm-shifting, synergy, optimize, holistic, engagement).
   - Look at what survives: "We ... driving ... community ..."
+
 * Step 4: Setting the Spatial Clearance Perimeter (C₀):
   - Beneath the redacted text, draw a large outer Flat State circle (C₀) filling roughly 70% of the active page.
   - If no real physical action remains from your sentence, draw a small circle in the center of C₀ and mark a bold X through it, proving the original claim contained zero physical geometry (Volumeᴠᴏɪᴅ = 0, Coordinatesᴠᴏɪᴅ = ∅).
   - If a real physical action was described (like people building a roof or planting wheat), draw that action as a clean, single loop (C₁) touching C₀.
+
 * Step 5: Auditing Your Restored Room: Look at the open, untouched grid squares inside your boundary. Notice the physical breathing room you created simply by refusing to give room to empty words. You are now ready to construct the C₃ capsule in Module 1.3.
 
 ### Check Your Understanding
@@ -49,22 +53,30 @@ Write down your reflection in your notebook and preserve it for future review. O
 
 ### Tier 1 Extra Credit (Applied Empirical Extraction)
 * The Pre-Boundary News Audit: Find a breaking news notification or political opinion headline that creates an immediate feeling of urgency or anxiety.
+
 * Task: Transcribe the headline word-for-word onto the top of a fresh grid sheet. Cross out every adjective and emotional framing term.
+
 * Physical Translation: On the bottom half of the sheet, draw your outer boundary (C₀). Inside C₀, write only the verified physical objects (people, vehicles, buildings, land) and physical movements that actually took place. Write a single zero-fat sentence explaining how stripping the emotional framing eliminates the feeling of panic before you draw your boundary capsule.
 
 ### Technical Substrate Telemetry
 This appended section provides the non-deformable coordinate mechanics and data-filtration formulations governing Loop-Back Module for advanced investigators.
 * Primitive Substrate Metric Invariant: The foundational physical medium is an inextensible 3D material string operating under global Tautness (Hexis), possessing an invariant cross-sectional diameter constant:
 Diameterꜱᴜʙꜱᴛʀᴀᴛᴇ = 10⁻³⁵ m
+
 * The Master Equivalence Anchor (Axiom of Structural Equivalence): Geometry ≡ Constraint ≡ Causality
+
 * The Pre-Processing Exclusion Act (Domain II, Section 2.1.1): Raw observational and semantic streams must be systematically purged of non-physical adjectival coefficients prior to geometric evaluation:
 Dataᴜɴ-ꜰᴏʀᴍᴀᴛᴛᴇᴅ = Dataʀᴀᴡ - ∑ Adjectiveɴᴏɪꜱᴇ
+
 * Localized Cognitive Spatial Clearance Budget: Ingesting un-filtered semantic noise consumes finite physical area on the neural grid, driving localized clearance toward collapse:
 Clearanceʟᴏᴄᴀʟ = Areaꜰʟᴀᴛ ꜱᴛᴀᴛᴇ - ∑ Areaᴄɪʀᴄʟᴇ, ɪ ──► 0
+
 * Impedance Lock Floor Limit: When spatial clearance drops below the lower threshold: Clearanceʟᴏᴄᴀʟ < Cᴍɪɴ, ʟɪᴍɪᴛ the local coordinate frame enters Impedance Lock (stasis), halting deterministic cognitive processing.
+
 * Static Grid Frame Capacity Ceiling Constants:
   - Standard Class I Metric Substrate (200 mm × 270 mm, Δx = 5.0 mm): xᴍᴀx = 40, yᴍᴀx = 54 pᴛᴏᴛᴀʟ = (40 + 1) × (54 + 1) = 2,255 Boundary Nodes nᴛᴏᴛᴀʟ = 40 × 54 = 2,160 Spatial Clearance Units Ratioɢʀɪᴅ = 2,255 ⁄ 2,160 ≈ 1.04398
   - Standard Class I Imperial Substrate (US Quad-Ruled, Bounded 37 × 49, Δx = 0.20 in / 5.08 mm): pᴛᴏᴛᴀʟ = 1,938 Boundary Nodes, nᴛᴏᴛᴀʟ = 1,850 Spatial Clearance Units Ratioɢʀɪᴅ = 1,938 ⁄ 1,850 ≈ 1.04757
+
 * Laboratory Falsification Gate: Recursion Gate 1.2b is falsified if an experiment demonstrates that a biological neural network or solid-state processor can process un-filtered adjectival noise streams without consuming finite physical spatial clearance, without experiencing measurable signal latency, or without inducing operational clock-skew.
 
 ### Tier 2 Extra Credit (Substrate Telemetry Audit)
@@ -74,4 +86,5 @@ Clearanceʟᴏᴄᴀʟ = Areaꜰʟᴀᴛ ꜱᴛᴀᴛᴇ - ∑ Areaᴄɪʀᴄʟ�
   - Executing the Pre-Processing Exclusion Act excises four non-physical clauses, reducing the statement to a single validated physical loop (AreaC₁ = 12,000 mm²) with 2 Fold-Circles (Areaꜰᴏʟᴅ, ᴛᴏᴛᴀʟ = 157.08 mm²).
   - Calculate the restored spatial clearance: Clearanceʟᴏᴄᴀʟ = 54,000 mm² - 12,000 mm² - 157.08 mm² = 41,842.92 mm².
   - Verify that the restored clearance budget increases operational room by over 490%, comfortably exceeding the Tri-Node scale floor limit (3 × Areaꜰᴏʟᴅ ≈ 235.62 mm²).
+  
 * Non-Geometric Placeholder Falsification Proof: Formulate a short, zero-fat mathematical proof demonstrating why injecting a non-geometric semantic variable (Volume = 0, Coordinates = ∅) into a physical spatial clearance budget commits an Extraction Fallacy under the Master Equivalence Anchor (Geometry ≡ Constraint ≡ Causality), inducing coordinate clock-skew and systemic loss of physical falsifiability.
