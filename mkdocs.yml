@@ -67,13 +67,6 @@ nav:
 
       - "<b>Level 0 Onboarding \"Grounding\"</b>":
           - "Overview & Foundation": level-0/index.md
-          - "Module 0-1 Letting Go": level-0/module-0-1.md
-          - "Module 0-2 Clearing Out The Jargon": level-0/module-0-2.md
-          - "Module 0-3 The Grid": level-0/module-0-3.md
-          - "Module 0-4 Managing Your Mental Space": level-0/module-0-4.md
-          - "Module 0-5 Motion As Re-Folding": level-0/module-0-5.md
-          - "Module 0-6 Preparing For The Wire": level-0/module-0-6.md
-          - "Level 0 Introduction to Panels": level-0/panel-0.md
 
       - "<b>Level 1 Novice</b>":
           - "Overview & Clearing the Canvas": level-1/index.md
