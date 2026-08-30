@@ -23,7 +23,9 @@ Think of a diver checking their oxygen valves and pressure seals before descendi
 
 Re-visiting Module 000-2 is your pre-dive equipment check:
 * You take incoming sentences and cross out every emotional adjective, status marker, and buzzword.
+
 * You verify whether any real physical object or action remains.
+
 * If a phrase is pure empty noise, you cross it out completely, refusing to give it room on your page.
 
 By executing this jargon-clearing practice right now, you clear your workbench, sharpen your pencil, and prepare to draw an impenetrable boundary capsule in Module 1.3.
@@ -74,17 +76,24 @@ Clearanceʟᴏᴄᴀʟ = Areaꜰʟᴀᴛ ꜱᴛᴀᴛᴇ - ∑ Areaᴄɪʀᴄʟ�
 * Impedance Lock Floor Limit: When spatial clearance drops below the lower threshold: Clearanceʟᴏᴄᴀʟ < Cᴍɪɴ, ʟɪᴍɪᴛ the local coordinate frame enters Impedance Lock (stasis), halting deterministic cognitive processing.
 
 * Static Grid Frame Capacity Ceiling Constants:
+
   - Standard Class I Metric Substrate (200 mm × 270 mm, Δx = 5.0 mm): xᴍᴀx = 40, yᴍᴀx = 54 pᴛᴏᴛᴀʟ = (40 + 1) × (54 + 1) = 2,255 Boundary Nodes nᴛᴏᴛᴀʟ = 40 × 54 = 2,160 Spatial Clearance Units Ratioɢʀɪᴅ = 2,255 ⁄ 2,160 ≈ 1.04398
+
   - Standard Class I Imperial Substrate (US Quad-Ruled, Bounded 37 × 49, Δx = 0.20 in / 5.08 mm): pᴛᴏᴛᴀʟ = 1,938 Boundary Nodes, nᴛᴏᴛᴀʟ = 1,850 Spatial Clearance Units Ratioɢʀɪᴅ = 1,938 ⁄ 1,850 ≈ 1.04757
 
 * Laboratory Falsification Gate: Recursion Gate 1.2b is falsified if an experiment demonstrates that a biological neural network or solid-state processor can process un-filtered adjectival noise streams without consuming finite physical spatial clearance, without experiencing measurable signal latency, or without inducing operational clock-skew.
 
 ### Tier 2 Extra Credit (Substrate Telemetry Audit)
 * Algorithmic De-Noising Clearance Derivation:
+
   - Consider a Class I metric drafting substrate (Areaꜰʟᴀᴛ ꜱᴛᴀᴛᴇ = 54,000 mm², Δx = 5.0 mm).
+
   - An un-audited institutional proposition introduces five jargon-heavy sub-clauses, consuming an aggregate area of ∑ Areaᴄɪʀᴄʟᴇ, ɪ = 46,000 mm² with 12 Fold-Circles (Areaꜰᴏʟᴅ = π × (5.0)² ≈ 78.54 mm²; Areaꜰᴏʟᴅ, ᴛᴏᴛᴀʟ = 12 × 78.54 = 942.48 mm²), leaving a depleted clearance of Clearanceʟᴏᴄᴀʟ = 7,057.52 mm².
+
   - Executing the Pre-Processing Exclusion Act excises four non-physical clauses, reducing the statement to a single validated physical loop (AreaC₁ = 12,000 mm²) with 2 Fold-Circles (Areaꜰᴏʟᴅ, ᴛᴏᴛᴀʟ = 157.08 mm²).
+
   - Calculate the restored spatial clearance: Clearanceʟᴏᴄᴀʟ = 54,000 mm² - 12,000 mm² - 157.08 mm² = 41,842.92 mm².
+  
   - Verify that the restored clearance budget increases operational room by over 490%, comfortably exceeding the Tri-Node scale floor limit (3 × Areaꜰᴏʟᴅ ≈ 235.62 mm²).
   
 * Non-Geometric Placeholder Falsification Proof: Formulate a short, zero-fat mathematical proof demonstrating why injecting a non-geometric semantic variable (Volume = 0, Coordinates = ∅) into a physical spatial clearance budget commits an Extraction Fallacy under the Master Equivalence Anchor (Geometry ≡ Constraint ≡ Causality), inducing coordinate clock-skew and systemic loss of physical falsifiability.

@@ -39,14 +39,21 @@ By controlling size and line continuity, you turn sprawling, confusing arguments
 * Step 5: Rendering the Underlapping Clause (C₃ with Broken Line Continuity):
 
   - Draw a third loop (C₃) that crosses beneath C₁.
+
   - Where C₃ travels through open grid space, draw it with a solid pencil line.
+
   - The exact moment C₃ passes inside the boundary of C₁, switch to a broken, dashed line track.
+
   - Once C₃ exits the other side of C₁, resume the solid line.
+
   - Look at your sheet: you have created 3D depth on a flat piece of paper without changing pencil pressure.
 
 * Step 6: Centering 1-Unit Cardinal Fold-Circles:
+
   - Locate every point where C₁, C₂, and C₃ touch or cross.
+
   - Center your pencil on the exact intersection coordinate and draw a small 1-unit circle that extends exactly 1 grid square outward in all four cardinal directions (Up, Down, Left, Right).
+
   - Count your Fold-Circles to ensure every structural junction is locked.
 
 * Step 7: Auditing the Open Room: Check the remaining open grid squares inside C₀. Verify that every loop has room around it and that no circle has shrunk below the minimum Tri-Node scale floor rule (AreaCɪ ≥ 3 × Areaꜰᴏʟᴅ).
@@ -76,7 +83,9 @@ This appended section provides the non-deformable coordinate mechanics, spatial 
 * SubStatement Scale Floor Limit (Tri-Node Limit): Every interior sub-statement loop (Cɪ) must satisfy the scale floor inequality: AreaCɪ ≥ Areaᴛʀɪ-ɴᴏᴅᴇ ꜰᴏʟᴅ-ᴄɪʀᴄʟᴇꜱ ≥ 3 × Areaꜰᴏʟᴅ preventing sub-grid degradation into localized Impedance Lock (Clearanceʟᴏᴄᴀʟ ──► 0).
 
 * Static Grid Frame Capacity Ceiling Constants:
+
   - Standard Class I Metric Substrate (200 mm × 270 mm, Δx = 5.0 mm): xᴍᴀx = 40, yᴍᴀx = 54, pᴛᴏᴛᴀʟ = (40 + 1) × (54 + 1) = 2,255 Boundary Nodes, nᴛᴏᴛᴀʟ = 40 × 54 = 2,160 Spatial Clearance Units, Ratioɢʀɪᴅ = 2,255 ⁄ 2,160 ≈ 1.04398
+
   - Standard Class I Imperial Substrate (US Quad-Ruled, Bounded 37 × 49, Δx = 0.20 in / 5.08 mm): pᴛᴏᴛᴀʟ = 1,938 Boundary Nodes, nᴛᴏᴛᴀʟ = 1,850 Spatial Clearance Units, Ratioɢʀɪᴅ = 1,938 ⁄ 1,850 ≈ 1.04757
 
 * Dynamic Active Statement Compaction Gate: Ratioꜱᴛᴀᴛᴇᴍᴇɴᴛ = pᴅʀᴀᴡɴ ⁄ nᴇɴᴄʟᴏꜱᴇᴅ where pᴅʀᴀᴡɴ is the sum of positive line-boundary crossings and nᴇɴᴄʟᴏꜱᴇᴅ is the remaining enclosed negative spatial clearance area.
@@ -87,9 +96,13 @@ This appended section provides the non-deformable coordinate mechanics, spatial 
 
 **Tier 2 Extra Credit (Substrate Telemetry Audit)**
 * Multi-Clause Clearance Depletion Calculation:
+
   - On a standard Class I metric substrate (Areaꜰʟᴀᴛ ꜱᴛᴀᴛᴇ = 54,000 mm², Δx = 5.0 mm, where Areaꜰᴏʟᴅ = π × (5.0)² ≈ 78.54 mm²):
+
     - Calculate the total micro-clearance area consumed by six distinct 1-unit Fold-Circles generated across a three-clause statement (C₁, C₂, C₃): Areaꜰᴏʟᴅ, ᴛᴏᴛᴀʟ = 6 × (π × (5.0)²) ≈ 471.24 mm²
+
     - Assuming sub-statement loops consume AreaC₁ = 18,000 mm², AreaC₂ = 12,000 mm², and AreaC₃ = 8,000 mm², calculate the final remaining localized spatial clearance: Clearanceʟᴏᴄᴀʟ = 54,000 mm² - 38,000 mm² - 471.24 mm² = 15,528.76 mm²
+    
     - Verify that Clearanceʟᴏᴄᴀʟ preserves positive operational room above the Tri-Node floor limit (3 × Areaꜰᴏʟᴅ ≈ 235.62 mm²).
     
 * Impedance Lock Mathematical Proof: Formulate a short, zero-fat mathematical proof demonstrating why allowing interior sub-statement loops to scale down below the physical grid pitch unit (AreaCɪ < Areaꜰᴏʟᴅ) causes the localized spatial clearance budget to collapse to zero (Clearanceʟᴏᴄᴀʟ ──► 0), inducing absolute Impedance Lock and computational stasis under the Master Equivalence Anchor: Geometry ≡ Constraint ≡ Causality.
