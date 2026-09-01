@@ -1,6 +1,6 @@
 # Welcome To Level 000: Pre-Onboarding & The Recovery Ramp
 
 
-**We are moving all Modules of the UTS Academy** to the main website at unifiedtensilesystem.org as we found GitHib/Material not to our liking. All of Level 0 is now on the main website, and we've taken the extra step to separate the Basic track from the Advanced Placement track there.
+**We are moving all Modules of the UTS Academy** to the main website at unifiedtensilesystem.org as we found GitHib/Material not to our liking. All of Level 0 and Level 1 are now on the main website, and we've taken the extra step to separate the Basic track from the Advanced Placement track there.
 
 **Although the move may take a week or more**, the remaining Levels here are still viable. Just expect them to disappear here and instead be found on the main UTS website very soon.
