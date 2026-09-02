@@ -73,15 +73,6 @@ nav:
 
       - "<b>Level 2 Planar Dynamics \"Intermediate\"</b>":
           - "Overview & 2D Mechanics": level-2/index.md
-          - "Module 2.1 The Planar Drawing Engine": level-2/module-2-1.md
-          - "Module 2.2 Sentence Postures": level-2/module-2-2.md
-          - "Module 2.2B Loop-Back": level-2/module-2-2B-LoopBack.md
-          - "Module 2.3 Verification Hysteresis Audit": level-2/module-2-3.md
-          - "Module 2.4 Bracketed Substrate Naturalization": level-2/module-2-4.md
-          - "Module 2.4B Loop-Back": level-2/module-2-4B-LoopBack.md
-          - "Module 2.5 Invariant Arc Length": level-2/module-2-5.md
-          - "Module 2.6 Reciprocal Unzipping Cycle": level-2/module-2-6.md
-          - "Level 2 Capstone Panel": level-2/panel-2.md
 
       - "<b>Level 3 Spherical Synthesis \"Advanced\"</b>":
           - "Overview & 3D Compaction": level-3/index.md
