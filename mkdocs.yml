@@ -76,15 +76,6 @@ nav:
 
       - "<b>Level 3 Spherical Synthesis \"Advanced\"</b>":
           - "Overview & 3D Compaction": level-3/index.md
-          - "Module 3.0B Loop-Back": level-3/module-3-0B-LoopBack.md
-          - "Module 3.1 3D Spherical Thesis Matrix": level-3/module-3-1.md
-          - "Module 3.2 Trans-Axis Anchoring": level-3/module-3-2.md
-          - "Module 3.3 Celestial Substrate Mechanics": level-3/module-3-3.md
-          - "Module 3.4 Solid-State Mechanics": level-3/module-3-4.md
-          - "Module 3.5 Terrestrial Substrate Mechanics": level-3/module-3-5.md
-          - "Module 3.6 Socio-Technical Mechanics": level-3/module-3-6.md
-          - "Module 3.7 The Metanoia Framework": level-3/module-3-7.md
-          - "Level 3 Capstone Panel": level-3/panel-3.md
 
       - "<b>Level 4 Deep-Time Mastery \"Expert\"</b>":
           - "Overview & Crown Closure": level-4/index.md
